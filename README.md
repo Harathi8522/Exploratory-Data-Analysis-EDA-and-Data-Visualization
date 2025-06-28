@@ -54,12 +54,6 @@ Example: "This project uses the **Wine Quality Dataset** available from the UCI 
 - Plotly (optional)
 - Jupyter Notebook / Google Colab
 
-## 📈 Example Visuals
-
-*(You can add screenshots or charts from your notebook here)*  
-Example:  
-![correlation heatmap]("C:\Users\kanda\OneDrive\Pictures\Screenshots\Screenshot 2025-06-28 172317.png")
-
 ## 📌 Usage
 
 To run this project locally:
