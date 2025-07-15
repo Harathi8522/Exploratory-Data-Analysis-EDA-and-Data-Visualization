@@ -51,17 +51,18 @@ This project aims to understand **feature relationships**, detect **patterns or 
 
 ## 🚀 How to Run This Project
 
-1. Clone this repo:
-git clone https://github.com/Harathi8522/your-repo-name.git
-2. Install the required packages:
-3. 3. Open the notebook:
+1. Install the required packages:
+2. Open the notebook:
+   
 
 👩‍💻 About Me
+
 I’m Harathi, an aspiring data analyst learning by doing.
 This project marks my transition from blindly running code to understanding the data analysis process end-to-end.
 I’m now more confident in asking questions, visualizing patterns, and telling data-driven stories.
 
 💡 Acknowledgements
+
 Special thanks to CodeAlpha for the internship opportunity and helping me build real-world analytical experience.
 
 📬 Connect with Me
